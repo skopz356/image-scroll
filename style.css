@@ -1,0 +1,28 @@
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background: url("img.jpg") center no-repeat; }
+
+.main {
+  height: 200vh; }
+
+body {
+  padding: 0;
+  margin: 0; }
+
+h1 {
+  font-size: 10rem;
+  color: white; }
+
+.title {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  height: 200px; }
+  .title h1 {
+    position: absolute; }
+
+/*# sourceMappingURL=style.css.map */
